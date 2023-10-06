@@ -6,3 +6,4 @@ def table(n):
 
 num = int(input("몇 단까지 출력할까요? "))
 table(num)
+
